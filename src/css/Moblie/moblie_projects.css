@@ -1,0 +1,14 @@
+/* viewport width 1024 이하 */
+
+@media (max-width: 768px) {
+  
+  .projects .project {
+    flex-direction: column;
+    height: 100%;
+  }
+  .project .project__img {
+    width: 100%;
+    height: 250px;
+  }
+}
+  
