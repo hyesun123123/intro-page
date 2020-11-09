@@ -5,7 +5,7 @@ import "../css/Moblie/moblie_about.css";
 
 const About = () => {
   const [img, setImg] = useState(
-    "https://postfiles.pstatic.net/MjAyMDA4MjNfODcg/MDAxNTk4MTEwOTM0MDUy.ugS0W2yA0mxuVCks26zgllK0dcyHRG6NQWHjcBQzlnYg.uSLne5VByShWcZquu3aHg2mxmbsehUxpG66vt2GaCrUg.JPEG.goodnight4857/myimage.JPG?type=w966"
+    "https://user-images.githubusercontent.com/40871065/98507060-325d0200-22a0-11eb-8118-d950624c5116.jpg"
   );
   const [blog, setBlog] = useState([
     "https://github.com/hyesun123123",

@@ -11,7 +11,7 @@ const Projects = () => {
       title: "심리치료 어플",
       url: "https://blog.naver.com/goodnight4857/222068138214",
       image:
-        "https://postfiles.pstatic.net/MjAyMDA4MjNfMTg5/MDAxNTk4MTExMzY1NzMy.Mb25JjFjyUvKCUUeeumjcn2P2DjZ5UMIGqooyWCcqtQg.pVGvJhBO-7sOwLc9kHc1uc3YYldIKAqFyMTgGw0Avl8g.PNG.goodnight4857/image.png?type=w966",
+        "https://user-images.githubusercontent.com/40871065/98507330-b616ee80-22a0-11eb-964f-1753f34004cd.png",
       uselang: "Skills : MySQL, Android, JAVA, Scatch",
       projectintro: "프로젝트 소개",
       text: [
@@ -43,6 +43,16 @@ const Projects = () => {
     },*/
     {
       id: 2,
+      title: "LAVISH",
+      url: "https://react-website-lavish.vercel.app/",
+      image:
+        "https://user-images.githubusercontent.com/40871065/98507525-19a11c00-22a1-11eb-8265-c3964ea6a4da.JPG",
+      uselang: "Skills: React",
+      projectintro: "프로젝트 소개",
+      text: ["- 반응형 웹사이트 "],
+    },
+    {
+      id: 3,
       title: "Movie App",
       url: "https://won-developer.github.io/first_react_movie_app/",
       image:
@@ -52,7 +62,7 @@ const Projects = () => {
       text: ["- 영화 정보 API", "- React Hooks를 사용한 간단한 영화 소개"],
     },
     {
-      id: 3,
+      id: 4,
       title: "TodoList",
       url: "https://won-developer.github.io/mommentum-clone/",
       image:
